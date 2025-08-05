@@ -1,0 +1,4 @@
+university 2nd class notes
+1. cd 
+2.ls
+3.nano
